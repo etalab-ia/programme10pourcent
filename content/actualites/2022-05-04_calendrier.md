@@ -19,7 +19,7 @@ Au programme:
 * Réflexion et priorisation des cas d'usage
 * Selon la maturité du projet, mise en place d'un environnement de travail partagé, premiers développement
 
-### De juin à octobre 2022: Ateliers de travail tous les 15 jours 
+### De juin à novembre 2022: Ateliers de travail tous les 15 jours 
 Tous les 15 jours, au Lieu de la transformation publique de 13h30 à 18h30 :
 * Juillet : mardi 5 et mardi 19 
 * Septembre : mardi 6 et mardi 20
