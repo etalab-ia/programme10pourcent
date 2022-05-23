@@ -1,6 +1,6 @@
 baseURL: "10pourcent.etalab.studio"
 title: "Programme 10%"
-description: "Programme de collaboration des data scientists de l'Etat"
+description: "Programme de collaboration des experts de la donnée de l'Etat"
 theme: "design-system-gouvfr"
 markup:
   goldmark:
