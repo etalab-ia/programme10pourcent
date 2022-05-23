@@ -48,14 +48,20 @@ languages:
         url: "projets/"
         weight: 100
 
+        - identifier: "ressources-utiles"
+        name: "Ressources"
+        title: "Ressources utiles"
+        url: "ressources/"
+        weight: 110
+
       - identifier: "recrutement"
         name: "Participer"
         title: "Participer"
         url: "recrutement/"
-        weight: 110
+        weight: 120
 
       - identifier: "contact"
         name: "Contact"
         title: "Contact"
         url: "/contact/"
-        weight: 120
+        weight: 130
