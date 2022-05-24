@@ -6,11 +6,11 @@ images:
 - /img/atelier_ideation.png
 ---
 
-#### Les objectifs : 
+#### Les objectifs 
 * Dans un premier temps, il s'agira de faire l'état des lieux des travaux déjà réalisés dans le domaine, de partager des retours sur les librairies testées et de centraliser ces éléments dans une documentation de tpe wiki. 
 * Dans un 2eme temps, prioriser les cas d'usages identifiés et dévelepper des briques open source pour y répondre.
 
-#### Exemples de cas d'usage: 
+#### Exemples de cas d'usage
 * PEREN : fournir des données structurées et comparables depuis des rapports de transparence publiés par les plateformes numériques (exemple : https://transparencyreport.google.com/report-downloads)
 * Ministère des Armées: fiches de poste, rapports du Contrôle général des armées 
 * Haute Autorité de la Santé: rapports des recommandations professionnelles (PDF numérisés): extraire des info afin de construire un arbre de décision
@@ -20,7 +20,7 @@ images:
 * Services statistiques ministériels: nombreuses publications en format papier (numérisation puis structuration automatique des informations présentes dans ces publications pourraient permettre de publier ces données en open data afin de rendre possible des réutilisations par des chercheurs, data scientists) 
 * La start-up d'Etat [Dossier Facile](https://www.dossierfacile.fr/) : OCR et extraction d'informations sur les cartes d'identités, bulletins de salaires et quittances de loyer 
 
-#### Domaines techniques :
+#### Domaines techniques 
 - OCR : de 3 types tapuscrit, manuscrit, tableau 
 - Extraction d'informations, plusieurs types de problématiques : 
   - développer un outil d'extractions de données structurées depuis des fichiers PDF correctement formatés en s'appuyant sur le contexte afin de lier les informations entre elles et d'établir des hiérarchies.
