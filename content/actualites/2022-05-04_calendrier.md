@@ -26,7 +26,6 @@ Tous les 15 jours, au Lieu de la transformation publique de 13h30 à 18h30 :
 * Octobre : mardi 4 et mardi 18
 * Novembre : mardi 8 et mardi 22
 
-### Début novembre : bootcamp final 
+### Fin novembre : bootcamp final 
 Bootcamp afin de finaliser les projets, dresser un bilan des réalisations et d'éventuelles prochaines étapes. 
 
-### Courant décembre : Retex et réflexion collective sur la suite du programme

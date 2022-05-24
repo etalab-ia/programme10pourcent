@@ -1,5 +1,5 @@
 ---
-title: "Lancement du programme"
+title: "Présentation du programme"
 slug: lancement-programme
 date: 2022-05-03T13:00:00+01:00
 summary: En 2022, la DINUM lance le programme 10%.
@@ -8,8 +8,6 @@ images:
 ---
 
 Suite au rapport INSEE-DINUM, la DINUM lance en 2022 le programme 10%.
-
-Rendez vous au lieu de la transformation publique le 16 mai 2022 pour l'atelier de lancement, vous pouvez vous y inscrire [ici](https://www.eventbrite.fr/e/billets-atelier-dideation-du-programme-10-308699397207).
 
 ## Contexte et objectifs du programme 
 A l’issue d’une mission conjointe conduite entre février et juin 2021, la DINUM et l’INSEE ont publié le 27 septembre 2021 un rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée. Ce dernier préconise d’expérimenter en 2022 la possibilité pour les experts de la donnée de consacrer au moins 10 % de leur temps de travail à des projets d’intérêt partagé à une échelle interministérielle.
@@ -20,25 +18,10 @@ L’objectif de cette expérimentation est triple :
 * Fidéliser les experts de la donnée déjà en poste.
 
 
-
-
-## Les idées de projets remontées :
-
-Les entretiens ont permis de faire remonter des premières pistes de projets potentiels. Par exemple :
-* La recherche sémantique, notamment autour de la brique PIAF ;
-* L’extraction d’information, notamment autour de la brique LirIA ;
-* La pseudonymisaton, notamment autour de la brique Openpseudo ;
-* Les méthodes d’anonymisation des données ;
-* Le développement de templates au format design system de l’État (template Shiny/Streamlit/Dash, etc) pour des interfaces de data sciences ;
-* CSV-detective et outils de parsing de données ; 
-* Boîte à outils intégrant des composants facilitant la manipulation de données ;
-
-Vous êtes agent public et vous souhaitez nous faire part d'une idée de projet à dimension interministérielle, vous pouvez nous en faire part en répondant à notre [questionnaire projet](https://framaforms.org/appel-a-idees-de-projets-programme-10-pourcent-1648137237) avant le 12 mai 2022. 
-
 ## Modalités concrètes de mise en œuvre du programme
 
 ### L’annonce du programme 
-Comme les entretiens l’ont souligné, l’adhésion des ministères et des managers au programme conditionnera sa réussite. Ainsi, avant son lancement, un courrier signé par le DINUM sera transmis aux SG des ministères, DNUM/AMDAC/SSM mettant en relief le principe du gagnant/gagnant. En échange du temps consacré aux projets interministériels, l’administration contributrice trouvera des bénéfices directs et concrets qui seront valorisés dans le courrier :
+En échange du temps consacré aux projets interministériels, l’administration contributrice trouvera des bénéfices directs et concrets qui seront valorisés :
 * La possibilité offerte aux contributeurs de bénéficier d’apports à ses propres projets ;
 * L’accès à une communauté d’experts ;
 * La valorisation de sa contribution aux projets ;
@@ -59,11 +42,12 @@ La qualification des projets se fera par les équipes de la DINUM de manière so
 
 ### Le déroulé des projets
 Plusieurs temps forts rythmeront le travail de la communauté des experts, en présentiel au Lieu de la transformation publique, ou en visio-conférence en fonction de la situation sanitaire :
-* Un premier bootcamp de lancement de trois jours avec une présentation des projets sélectionnés, des règles du jeu, la constitution des équipes et un sprint de travail ; 
+* Un premier bootcamp de lancement de deux jours avec une présentation des projets sélectionnés, des règles du jeu, la constitution des équipes et un sprint de travail ; 
 * Une journée tous les 15 jours dédiée au travail sur les projets interministériels (éventuellement thématisés);
-* Un deuxième bootcamp de trois jours avec un sprint et une présentation finale de projets.
-Entre ces différents temps, un travail au fil de l’eau se déroulera au sein des équipes via un outil collaboratif dédié sur le site internet. Un accompagnement sera mis à disposition par l’équipe du Lab IA. 
+* Un deuxième bootcamp avec un sprint et une présentation finale de projets.
+Tout au long du programme , un travail au fil de l’eau se déroulera au sein des équipes via un outil collaboratif dédié sur le site internet. Un accompagnement sera mis à disposition par l’équipe du Lab IA. 
 
 ### La restitution des projets
 Un événement final sera dédié à valoriser les projets interministériels issus du programme 10% par thématique afin de valoriser les ministères contributeurs  qui remettront un badge data « d’intérêt général » à chaque expert ou une certification qu’ils pourront valoriser au cours de leur parcours professionnel au sein des ministères. 
+Cet événement est prévu pour fin novembre. 
 
