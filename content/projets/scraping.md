@@ -9,22 +9,23 @@ images:
 
 Les besoins de récolte et de structuration de données présentes sur des pages Internet sont fréquents (établissement de statistiques, )
 
+#### Les objectifs :
+* Automatiser et conteneuriser l'application 
+* Diversifier les rapports d'exécution (aujourd'hui par mail seulement)
+* Optimisation / parallélisation pour les scraping très volumineux
 
-#### Les défis data sciences associés :
-
-Voir présentation du peren sur le scraping https://speakerdeck.com/etalabia/20201029-datadrink-peren?slide=16 
 
 #### Exemples de cas d'usage:
 * Scraping des offres d'emploi
 * Scraping des CGU (Open Term Archives)
 
+#### Domaines techniques:
 
-#### Les objectifs :
-* Automatiser et conteneuriser l'application 
-* Diversifier les rapports d'exécution (aujourd'hui par mail seulement)
-* Optimisation / parallélisation pour les scraping très volumineux
-* 
 #### Les profils recherchés
 * Data scientist 
 * Développeur
+
+#### Ressources utiles
+Voir présentation du peren sur le scraping https://speakerdeck.com/etalabia/20201029-datadrink-peren?slide=16 
+
 

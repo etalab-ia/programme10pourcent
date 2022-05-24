@@ -1,5 +1,5 @@
 ---
-title: "Participants : A venir"
+title: "Communauté : A venir"
 description: "Découvrez les participants: A venir"
 ---
 

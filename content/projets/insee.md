@@ -13,11 +13,6 @@ Beaucoup de données produites par l'INSEE sont difficilement accessibles (seule
  
 Concernant les données géographiques, la création de fonds de carte  implique d’aller chercher un shapefile produit par l’IGN et d’associer les polygones au code officiel géographique (COG) de l’année en question. Lorsqu’on veut étudier des territoires sur plusieurs années, les fusions/séparations de commune impliquent de nombreuses difficultés. Chaque institution développe ses propres codes sur le sujet.
 
-
-#### Exemples de cas d'usage: 
-* Projet de cartographie de données 
-* Projet impliquant le croisement des données Insee et data.gouv.fr
-
 #### Les objectifs : 
 * Rassembler données géo de l’IGN et administrative de l’INSEE dans un point d’entrée clair et normalisé (catalogue)
 * Standardisation de données 
@@ -25,10 +20,16 @@ Concernant les données géographiques, la création de fonds de carte  implique
 * Construction de shapefiles de confiance afin d'améliorer l’utilisation des données géographiques (éventuellement requêtables par API).
 * Enjeu d’harmonisation avec l'écosystème existant: geofla, API découpage administratif, forum géocommun, avoir des retours de géomaticiens pour éviter de réinventer l'existant. 
 
+
+#### Exemples de cas d'usage: 
+* Projet de cartographie de données 
+* Projet impliquant le croisement des données Insee et data.gouv.fr
+
+
 #### Les profils recherchés
 * Data scientist 
 * Data Engineer
 * Géomaticien
 * Développeur 
 
-#### Lien vers un repertoire de code 
+#### Ressources utiles
