@@ -48,7 +48,7 @@ languages:
         url: "projets/"
         weight: 100
 
-      - identifier: "ressources-utiles"
+      - identifier: "ressources"
         name: "Ressources"
         title: "Ressources utiles"
         url: "ressources/"
