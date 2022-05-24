@@ -9,17 +9,17 @@ images:
 
 Les besoins de récolte et de structuration de données présentes sur des pages Internet sont fréquents (établissement de statistiques, )
 
-#### Les objectifs :
+#### Les objectifs
 * Automatiser et conteneuriser l'application 
 * Diversifier les rapports d'exécution (aujourd'hui par mail seulement)
 * Optimisation / parallélisation pour les scraping très volumineux
 
 
-#### Exemples de cas d'usage:
+#### Exemples de cas d'usage
 * Scraping des offres d'emploi
 * Scraping des CGU (Open Term Archives)
 
-#### Domaines techniques:
+#### Domaines techniques
 
 #### Les profils recherchés
 * Data scientist 
