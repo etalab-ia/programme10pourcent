@@ -3,7 +3,7 @@ title: "SIRETisation des entreprises"
 date: 2022-05-18T13:00:00+01:00
 responsible: Alexis Eidelman (DARES) + Etalab
 summary: La recherche du numéro SIRET d’immatriculation d’un établissement dans le répertoire administratif SIRENE de l'INSEE à partir de son libellé et lieu géographique à l’aide des API actuelles ne donne pas toujours un résultat satisfaisant. Plusieurs administrations travaillent à améliorer cette recherche, le but de ce projet serait de répertorier les outils existants et de contribuer à de nouveaux développements.
-
+images: 
 - /img/atelier_ideation.png
 ---
 
