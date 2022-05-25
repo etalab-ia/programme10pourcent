@@ -9,8 +9,7 @@ Ce site est édité par la direction interministérielle du numérique (DINUM), 
 20 avenue de Ségur<br>
 75007 Paris<br>
 Tel. accueil : 01.71.21.01.70<br>
-SIRET : 120 001 011 00010 (secrétariat général du gouvernement)<br>
-SIREN : 120 001 011<br></p>
+SIREN : 130 025 265 (DINUM)<br></p>
 
 ### Directeur de publication
 
@@ -19,7 +18,6 @@ Pour les sujets relevant de la DINUM (transformation numérique de l’État) : 
 ### Conception et gestion du site
 
 Ce site est développé en mode agile, selon un principe d’amélioration continue. De nouvelles fonctionnalités seront ajoutées prochainement. <br>
-Le suivi éditorial et graphique est assuré au quotidien par la mission Communication de la DINUM, avec l’aide de la société Octo pour le volet technique.
 
 ### Code source du site
 
