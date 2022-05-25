@@ -30,10 +30,10 @@ languages:
         url: ""
         weight: 80
 
-      - identifier: "recrutement"
+      - identifier: "programme"
         name: "Programme"
         title: "Le Programme"
-        url: "recrutement/"
+        url: "programme/"
         weight: 90
 
       - identifier: "actualites"
