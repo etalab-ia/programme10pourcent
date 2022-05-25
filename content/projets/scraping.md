@@ -2,7 +2,7 @@
 title: "Scraping"
 date: 2022-05-18T13:00:00+01:00
 summary: Industrialisation du scraping avec des outils de planifications de tâche, de cloud et de base de données.
-responsible: Alexis Eidelman (DARES) + PEREN
+responsible: Alexis Eidelman (DARES)
 images: 
 - /img/atelier_ideation.png
 ---
