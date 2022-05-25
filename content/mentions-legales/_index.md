@@ -9,8 +9,7 @@ Ce site est édité par la direction interministérielle du numérique (DINUM), 
 20 avenue de Ségur<br>
 75007 Paris<br>
 Tel. accueil : 01.71.21.01.70<br>
-SIRET : 120 001 011 00010 (secrétariat général du gouvernement)<br>
-SIREN : 120 001 011<br></p>
+SIREN : 130 025 265 (DINUM)<br></p>
 
 ### Directeur de publication
 
