@@ -19,7 +19,6 @@ Pour les sujets relevant de la DINUM (transformation numérique de l’État) : 
 ### Conception et gestion du site
 
 Ce site est développé en mode agile, selon un principe d’amélioration continue. De nouvelles fonctionnalités seront ajoutées prochainement. <br>
-Le suivi éditorial et graphique est assuré au quotidien par la mission Communication de la DINUM, avec l’aide de la société Octo pour le volet technique.
 
 ### Code source du site
 
