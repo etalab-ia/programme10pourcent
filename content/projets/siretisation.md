@@ -23,7 +23,7 @@ Il s’agit ensuite de permettre de requêter dans la base, en utilisant au mieu
 
 Cette problématique de SIRETisation est partagée par un très grand nombre d'administrations. Parmi les très nombreux cas d'usage on peut citer notamment :
 - La statistique publique (INSEE, DREES, DARES, etc.)
-- La SIRETisation des établissements de santé connus par leur numéro FINES
+- La SIRETisation des établissements de santé connus par leurs numéros FINES
 - L'évaluation de politiques publiques
 
 
