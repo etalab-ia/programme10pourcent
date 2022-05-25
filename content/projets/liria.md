@@ -22,7 +22,7 @@ images:
 
 #### Domaines techniques 
 - OCR : de 3 types tapuscrit, manuscrit, tableau 
-- Extraction d'informations, plusieurs types de problématiques : 
+- Extraction d'informations, plusieurs problématiques : 
   - développer un outil d'extractions de données structurées depuis des fichiers PDF correctement formatés en s'appuyant sur le contexte afin de lier les informations entre elles et d'établir des hiérarchies.
   - développer un outil d'extraction à partir de documents contenant du texte et des éléments de mise en page ayant une importance (type carte d'identité, bulletins de salaires) 
 
@@ -33,4 +33,7 @@ images:
 
 #### Ressources utiles 
 * [Repertoire GitHub du projet OCR-Xtract](https://github.com/etalab-ia/ocr-xtract )
+* CORD, jeu de données de tickets de caisse, ouvert et annoté : https://github.com/clovaai/cord 
+* Tutoriel pour l'utilisation de la librairie LayoutLM : https://github.com/omarsou/layoutlm_CORD/blob/main/layoutlm.ipynb 
+* Rapports de transparence publiés par les plateformes numériques :  https://transparencyreport.google.com/report-downloads
 
