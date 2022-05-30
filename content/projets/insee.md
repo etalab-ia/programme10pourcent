@@ -3,7 +3,7 @@ title: "Faciliter l’association de sources de données géographiques issues d
 date: 2022-05-18T13:00:00+01:00
 summary: Rassembler les données géographiques de l'IGN et les référentiels administratifs de l'INSEE dans un point d'entrée clair et normalisé (catalogue et API) pour faciliter l’harmonisation et l’association de données géographiques
 
-responsible: Lino Galiana (INSEE)R
+responsible: Lino Galiana (INSEE)
 images: 
 - /img/atelier_ideation.png
 ---
