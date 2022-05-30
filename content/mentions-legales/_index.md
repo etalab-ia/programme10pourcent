@@ -21,7 +21,7 @@ Aucun.
 
 #### Crédits photographiques
 
-Les photos et illustrations présentes sur ce site proviennent de sources différentes, mentionnées au cas par cas sur le crédit de chaque photo, et sont toutes libres de droit. L'utilisation des photos de sur ce site a été requise auprès des personnes identifiables sur chacune des photos.
+Les photos et illustrations présentes sur ce site proviennent de sources différentes (soit des productions internes au programme soit des ressources common wikimedia), et sont toutes libres de droit. Pour chacune des photos où une personne est identifiable, l'utilisation des photos de sur ce site a été requise auprès des personnes concernées.
 
 
 #### Conception et gestion du site
