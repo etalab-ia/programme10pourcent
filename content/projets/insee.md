@@ -4,7 +4,7 @@ date: 2022-05-18T13:00:00+01:00
 summary: Rassembler données géo de l'IGN et administrative de l'INSEE dans un point d'entrée clair et normalisé (catalogue, API, harmonisation)
 responsible: Lino Galiana (INSEE)
 images: 
-- /img/atelier_ideation.png
+- /img/image-ign-insee.png
 ---
 
 ##### La problématique identifiée

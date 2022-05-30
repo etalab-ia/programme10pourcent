@@ -43,7 +43,7 @@ Le site est hébergé par OVH cloud.
 
 Sauf mention explicite de propriété intellectuelle détenue par des tiers, les contenus de ce site sont proposés sous [licence ouverte Etalab 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).<br>
 Vous êtes notamment libres de les reproduire, copier, modifier, extraire, transformer, communiquer diffuser, redistribuer, publier, transmettre et exploiter sous réserve de mentionner leur source, leur date de dernière mise à jour et ne pas induire en erreur des tiers quant aux informations qui y figurent.<br>
-Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur ce site. La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source 10pourcent.etalab.studio est recommandée.<br>
+Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur ce site.
 
 #### Écrire au webmestre
 
