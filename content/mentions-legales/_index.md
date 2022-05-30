@@ -37,7 +37,7 @@ Le code source du site est disponible sur [Github](https://github.com/etalab-ia/
 
 ### Hébergement
 
-Le site est auto-hébergé.
+Le site est hébergé par OVH cloud.
 
 ### Réutilisation des contenus et liens
 
