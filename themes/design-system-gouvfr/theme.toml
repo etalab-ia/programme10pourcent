@@ -10,6 +10,3 @@ tags = []
 features = []
 min_version = "0.41.0"
 
-[author]
-  name = "PEReN"
-  homepage = "https://peren.org"

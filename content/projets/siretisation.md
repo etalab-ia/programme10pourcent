@@ -7,7 +7,7 @@ images:
 - /img/atelier_ideation.png
 ---
 
-#### Les objectifs
+##### Les objectifs
 
 Pour répondre à la problématique de cette « sirétisation », l’idée serait d’enrichir la base SIRENE  à l’aide d'informations contextuelles (libellé d'usage, informations géographiques, etc.), produites généralement en interne par plusieurs administrations via des annotations ou des tableaux structurés contenant des listes d’entreprises et de métadonnées1 qui pourrait être mobilisées à cette fin d’amélioration du codage. 
 
@@ -19,7 +19,7 @@ Un autre aspect de la « sirétisation » est son historique : les établisse
 
 Il s’agit ensuite de permettre de requêter dans la base, en utilisant au mieux tous les éléments à notre disposition pour pouvoir nuancer le matching sur le nom : la recherche d’un établissement sur lequel on a quelques informations - mêmes imprécises - est en effet d’autant plus aisée que cette base de données de référence contient des informations sectorielles, géographiques, administratives, etc. qui aident à trancher des identifications ambiguës. Ces informations permettent non seulement d’éliminer des candidats inexacts issus d’une recherche flou « fuzzy matching », mais aussi d’imaginer des mots-clefs synonymes si la recherche par information-clef n’est pas concluante.
 
-#### Exemples de cas d'usage
+##### Exemples de cas d'usage
 
 Cette problématique de SIRETisation est partagée par un très grand nombre d'administrations. Parmi les très nombreux cas d'usage on peut citer notamment :
 - La statistique publique (INSEE, DREES, DARES, etc.)
@@ -27,19 +27,19 @@ Cette problématique de SIRETisation est partagée par un très grand nombre d'a
 - L'évaluation de politiques publiques
 
 
-#### Domaines techniques
+##### Domaines techniques
 
 - Développement d'API
 - Recherche d'information dans un index (par exemple via le moteur Elasticsearch)
 
-#### Les profils recherchés
+##### Les profils recherchés
 
 - Compétences ponctuelles en ingénierie de données pour déterminer la structure que pourraient prendre ces tableaux de données.
 - Expertise pour déterminer les meilleures métriques
 - Compétences métiers pour déterminer des alias
 - Gestion de projet
 
-#### Ressources utiles
+##### Ressources utiles
 
 - L'API SIRENE de l'INSEE : [catalogue des API de l'INSEE](https://api.insee.fr/catalogue/)
 - La solution SocialGouv du Ministère du Travail : [lien github](https://github.com/SocialGouv/recherche-entreprises) et [interface de SocialGouv](https://recherche-entreprises.fabrique.social.gouv.fr/)

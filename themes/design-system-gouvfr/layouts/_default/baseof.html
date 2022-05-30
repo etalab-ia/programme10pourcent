@@ -1,13 +1,4 @@
 <!DOCTYPE html>
-{{ "<!--" | safeHTML }}
-    {{ if eq .Site.Language.Lang "fr" }}
-    Vous pourriez travailler pour le PEReN !
-    Nous recrutons, offres de postes sur {{ "recrutement/" | absLangURL }}.
-    {{ else }}
-    You could work for the PEReN!
-    We're hiring, job offers at {{ "recrutement/" | absLangURL }}.
-    {{ end }}
-{{ "-->" | safeHTML }}
 <html lang="fr" data-fr-theme="light">
     <head>
         {{- partial "head.html" . -}}
