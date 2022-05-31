@@ -4,7 +4,7 @@ slug: contribuer
 date: 2022-05-03T13:00:00+01:00
 summary: Rejoindre le programme 10%
 images: 
-    - /img/visuel_programme_10_pourcent.png
+    - /img/cooperation_creative-common-kerala-state.png
 ---
 
 Vous avez envie de participer au programme ?  Rejoignez nous.
