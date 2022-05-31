@@ -23,6 +23,7 @@ Aucun.
 
 Les photos et illustrations présentes sur ce site proviennent de sources différentes (soit des productions internes au programme soit des ressources common wikimedia), et sont toutes libres de droit. Pour chacune des photos où une personne est identifiable, l'utilisation des photos de sur ce site a été requise auprès des personnes concernées.
 
+Crédit de l'illustration de la page "Contribuer" : Department of Cooperation, Government of Kerala, CC0, via Wikimedia Commons
 
 #### Conception et gestion du site
 
