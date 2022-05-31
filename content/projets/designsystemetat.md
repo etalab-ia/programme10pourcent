@@ -3,7 +3,6 @@ summary: Vous travaillez dans une administration de l'Etat et vous utilisez R po
 Problème, vos documents doivent respecter le design system de l'Etat. Plutôt que d'implémenter le design system de l'Etat dans votre coin, venez contribuer aux projets gouvdown et shinygouv ! Ces packages ont pour objectifs de permettre aux utilisateurs de R de créer des applications et des documents conformes au design system de l'Etat.
 responsible: Romain Lesur (INSEE)
 date: 2022-05-18T13:00:00+01:00
-wordcloud: design system de l'Etat, R, RShiny, RMarkdown 
 images:
 - /img/image-nlp.png
 ---
