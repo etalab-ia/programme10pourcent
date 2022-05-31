@@ -5,7 +5,7 @@ responsible: Romain Lesur (INSEE)
 date: 2022-05-18T13:00:00+01:00
 wordcloud: design system de l'Etat, R, RShiny, RMarkdown, dashboard, publications 
 images:
-- /img/image-nlp.png
+- /img/image-design-system.png
 ---
  
 
