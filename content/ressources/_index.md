@@ -4,7 +4,7 @@ description: Ressources partagées
 ---
 
 
-#### Une question liée à votre mission numérique ou à votre quotidien d'agent public ? 
+#### Une question de développement ou de data science ? 
 Le service d'entraide vous permet de poser des questions et d'apporter des réponses à la commuanuté : [entraide.etalab.studio](https://entraide.etalab.studio/)
 
 #### Besoin de puissance de calcul pour le machine learning ?
